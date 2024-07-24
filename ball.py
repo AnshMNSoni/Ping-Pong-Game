@@ -1,6 +1,5 @@
 # Object shape and motion:
 from turtle import Turtle, Screen
-import random
 screen = Screen()
 
 class Object(Turtle):
