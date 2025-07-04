@@ -18,7 +18,7 @@
 
 ### Preview:
 
-![image](https://github.com/user-attachments/assets/29dfaaf8-2cb4-4d3d-a8a8-54d8f98da047)
+<img src="https://github.com/user-attachments/assets/29dfaaf8-2cb4-4d3d-a8a8-54d8f98da047" width="700"/>
 
 ### 📢 Connect with Me
 If you found this project helpful or have any suggestions, feel free to connect:
